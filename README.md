@@ -1,7 +1,7 @@
 # React Poster App
 
 ## Description:
-This React Poster application allows users to add new posters and view them. It utilizes React for the frontend and Node.js, JavaScript, HTML, and CSS for the backend.
+This React Poster application allows users to add new posters and view them. It utilizes React for the frontend and Node.js for the backend.
 
 ## Installation:
 1. Clone the repository: `git clone https://github.com/apasalic10/react-poster-app`
